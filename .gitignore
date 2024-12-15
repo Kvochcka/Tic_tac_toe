@@ -1,0 +1,11 @@
+my_exp/
+.pytest_cache/
+.idea/
+__pycache__/
+mbox-short.txt
+tests/__pycache__/
+.venv/
+*.pyc
+db.sqlite3
+.env
+static/
